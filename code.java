@@ -4,5 +4,6 @@ public class JavaErrorExample {
         
         // This will cause a NullPointerException
         System.out.println(str.length());
+        DATA
     }
 }
