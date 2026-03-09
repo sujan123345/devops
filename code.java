@@ -1,6 +1,6 @@
 public class code {
     public static void main(String[] args) {
-        String str = "Sujan m b";
+        String str = "Suja";
         System.out.println(str.length());
     }
 }
